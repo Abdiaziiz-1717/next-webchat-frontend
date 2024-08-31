@@ -1,0 +1,13 @@
+// styles/custom-bootstrap.scss
+
+// Import Bootstrap functions first
+@import "~bootstrap/scss/functions";
+
+// Import Bootstrap variables
+@import "~bootstrap/scss/variables";
+
+// Import Bootstrap mixins
+@import "~bootstrap/scss/mixins";
+
+// Import the specific Bootstrap components you need
+@import "~bootstrap/scss/modal";
